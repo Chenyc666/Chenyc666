@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Hello, I am a First-Generation college student at University of Maryland studying Computer Science. Actively seeking SDE opportunities in the USA/Canada
 <!--
 **Chenyc666/Chenyc666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
